@@ -1,0 +1,11 @@
+C:\Users\MOJI\source\repos\kpz\Lightweight\Lightweight\bin\Debug\Lightweight.exe.config
+C:\Users\MOJI\source\repos\kpz\Lightweight\Lightweight\bin\Debug\Lightweight.exe
+C:\Users\MOJI\source\repos\kpz\Lightweight\Lightweight\bin\Debug\Lightweight.pdb
+C:\Users\MOJI\source\repos\kpz\Lightweight\Lightweight\obj\Debug\Lightweight.csproj.AssemblyReference.cache
+C:\Users\MOJI\source\repos\kpz\Lightweight\Lightweight\obj\Debug\Lightweight.csproj.SuggestedBindingRedirects.cache
+C:\Users\MOJI\source\repos\kpz\Lightweight\Lightweight\obj\Debug\Lightweight.Form1.resources
+C:\Users\MOJI\source\repos\kpz\Lightweight\Lightweight\obj\Debug\Lightweight.Properties.Resources.resources
+C:\Users\MOJI\source\repos\kpz\Lightweight\Lightweight\obj\Debug\Lightweight.csproj.GenerateResource.cache
+C:\Users\MOJI\source\repos\kpz\Lightweight\Lightweight\obj\Debug\Lightweight.csproj.CoreCompileInputs.cache
+C:\Users\MOJI\source\repos\kpz\Lightweight\Lightweight\obj\Debug\Lightweight.exe
+C:\Users\MOJI\source\repos\kpz\Lightweight\Lightweight\obj\Debug\Lightweight.pdb
